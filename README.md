@@ -1,4 +1,4 @@
-# Peonia: Generative 3D Animation 🌸
+# Peony: Generative 3D Animation 🌸
 
 An interactive, mathematical generative art piece running entirely in the browser. This project renders a 3D peony flower that continuously cycles through phases of growth, interactive blooming, and wilting. 
 
